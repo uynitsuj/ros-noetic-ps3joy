@@ -1,6 +1,6 @@
 # PlayStation 3 Joystick Driver for ROS
 
-Original ROS Joystick Driver package had no support for Noetic. This is a python2 to python3 port.
+Original ROS Joystick Driver package had no support for Noetic. This serves as a noetic-compatible python2 to python3 port.
 
 This package provides a driver for the PS3 (SIXAXIS or DUALSHOCK3) bluetooth joystick.
 
